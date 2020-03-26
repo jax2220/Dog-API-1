@@ -1,7 +1,4 @@
 
-
-
-
 'use strict';
 function watchForm(){
     $('form').submit(event => {
